@@ -1,2 +1,2 @@
-# random_tasks
-repository where random tasks uploaded
+# Random projects repository
+repository where random projects uploaded
